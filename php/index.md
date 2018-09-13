@@ -2,4 +2,4 @@
 
 - [Switch][php-switch]
 
-[php-switch]: ./switch.md
+[php-switch]: ./switch/index.md
