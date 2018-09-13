@@ -1,6 +1,6 @@
 [home][go-home] / [php][go-php] / [switch][go-switch] / **Question 1**
 ---
-### Switch
+### Question
 
 ```php
 <?php
