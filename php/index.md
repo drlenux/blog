@@ -5,7 +5,9 @@
 
 - [Switch][php-switch]
 - [Swap parameters][php-swap]
+- [Array unique][php-array-unique]
 
 [php-switch]: ./switch/index.md
+[php-array-unique]: ./array-unique/index.md
 [php-swap]: ./swap/index.md
 [go-home]: ../index.md
