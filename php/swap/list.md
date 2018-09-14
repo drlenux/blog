@@ -1,11 +1,11 @@
-[home][go-home] / [php][go-php] / [swop parameters][go-swap] / **Math sum**
+[home][go-home] / [php][go-php] / [swop parameters][go-swap] / **List**
 ---
-### Math sum
+### List
 
 ```php
 <?php
 
-function swapInt(&$a, &$b): void
+function swapList(&$a, &$b): void
 {
   list($a, $b) = [$b, $a];
 }
