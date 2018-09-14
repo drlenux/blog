@@ -1,4 +1,4 @@
-### Вопросы к собеседованию по PHP
+### Array unique
 [home][go-home] / [PHP][go-php] / **Array unique**
 
 ---
