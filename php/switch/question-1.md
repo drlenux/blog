@@ -1,7 +1,6 @@
+### Question
 [home][go-home] / [php][go-php] / [switch][go-switch] / **Question 1**
 ---
-### Question
-
 ```php
 <?php
 $tmp = true;
