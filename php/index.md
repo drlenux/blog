@@ -6,3 +6,4 @@
 
 [php-switch]: ./switch/index.md
 [php-swap]: ./swap/index.md
+[go-home]: ../index.md
