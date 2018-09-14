@@ -1,3 +1,8 @@
+### Вопросы к собеседованию по PHP
+[home][go-home] / [PHP][go-php] / **Array unique**
+
+---
+
 Дан массив слов:
 **$words** = `[‘red’, ‘green’, ‘blue’, ‘yellow’, ‘orange’];`
 
@@ -33,3 +38,5 @@ print_r($uniques);
 [Решение][decision]
 
 [decision]: ./decision.md
+[go-home]: ../../index.md
+[go-php]: ../index.md
