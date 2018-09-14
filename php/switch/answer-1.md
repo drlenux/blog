@@ -4,9 +4,6 @@
 ```php
 -1
 ```
-
-[Результат][result]
-
 [result]: ./answer-1.md
 [go-switch]: ./index.md
 [go-php]: ../index.md
