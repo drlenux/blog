@@ -1,5 +1,6 @@
 ### Answer
 [home][go-home] / [php][go-php] / [switch][go-switch] / [Question 1][go-question] / **Answer**
+
 ---
 ```php
 -1
