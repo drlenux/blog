@@ -1,7 +1,6 @@
+### Swap parameters
 [home][go-home] / [php][go-php] / **Swap parameters**
 ---
-### Swap parameters
-
 - [XOR][xor]
 - [Math sum][sum]
 - [List][list]
