@@ -1,3 +1,8 @@
+### Decision Array unique
+[home][go-home] / [PHP][go-php] / [Array-unique][go-php-array-unique] / **Decision**
+
+---
+
 ```php
 <?php
 function render_strngs(array $words, $count)
@@ -22,3 +27,6 @@ $uniques = get_uniques($strings);
 echo "T=" . (microtime(true) - $t) . "\r\n";
 var_export($uniques);
 ```
+[go-php-array-unique]: ./index.md
+[go-php]: ../index.md
+[go-home]: ../../index.md
