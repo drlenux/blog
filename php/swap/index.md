@@ -5,14 +5,14 @@
 - [XOR][xor]
 - [Math sum][sum]
 - [List][list]
-- [Extracts][extracts]
+- [Extract][extract]
 - [Array][array]
 - [Substr][substr]
 
 [xor]: ./xor.md
 [sum]: ./sum.md
 [list]: ./list.md
-[extracts]: ./extracts.md
+[extract]: ./extract.md
 [array]: ./array.md
 [substr]: ./substr.md
 
