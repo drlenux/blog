@@ -1,5 +1,6 @@
 ### XOR
 [home][go-home] / [php][go-php] / [swop parameters][go-swap] / **XOR**
+
 ---
 ```php
 <?php
