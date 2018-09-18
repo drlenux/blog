@@ -13,12 +13,11 @@
  });
  
  var_dump($out);
- //return [PHP-5.6.20] : ['a','b','c','e']
- //return [PHP-7.0.5] : ['a','b','c','d','e']
  ```
 
+[Результат][php-error-array_udiff-result]
 
-[php-error-array_udiff]: ./array_udiff.md
+[php-error-array_udiff-result]: ./array_udiff.md
 
 [go-home]: ../../index.md
 [go-php]: ../index.md
