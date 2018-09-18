@@ -17,7 +17,7 @@
 
 [Результат][php-error-array_udiff-result]
 
-[php-error-array_udiff-result]: ./array_udiff.md
+[php-error-array_udiff-result]: ./result/array_udiff.md
 
 [go-home]: ../../index.md
 [go-php]: ../index.md
