@@ -8,8 +8,7 @@
  //return [PHP-7.0.5] : ['a','b','c','d','e']
  ```
 
-[php-error-array_udiff]: ../array_udiff.md
-
+[go-php-error-array_udiff]: ../array_udiff.md
 [go-home]: ../../../index.md
 [go-php]: ../../index.md
 [go-php-error]: ../index.md
