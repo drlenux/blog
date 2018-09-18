@@ -1,5 +1,5 @@
 ### Floating point
-[home][go-home] / [PHP][go-php] / [Ошибки][go-php-error] / [Ternary operator][go-php-error-ternary-operator]
+[home][go-home] / [PHP][go-php] / [Ошибки][go-php-error] / [Ternary operator][go-php-error-ternary-operator] / **Результат**
 
 ---
 
