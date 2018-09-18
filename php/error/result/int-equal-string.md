@@ -7,7 +7,7 @@
 //return: yes
 ```
 
-[go-php-error-int-equal-string]: ./int-equal-string.md
-[go-php-error]: ./index.md
-[go-home]: ../../index.md
-[go-php]: ../index.md
+[go-php-error-int-equal-string]: ../int-equal-string.md
+[go-php-error]: ../index.md
+[go-home]: ../../../index.md
+[go-php]: ../../index.md
