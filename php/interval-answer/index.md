@@ -13,6 +13,9 @@
 
 **Answer** = 6
 
+[Решение][answer]
+
+[answer]: ./answer.md
 [go-php]: ../index.md
 [go-home]: ../../index.md
 
