@@ -1,4 +1,4 @@
-### Floating point
+### Ternary operator
 [home][go-home] / [PHP][go-php] / [Ошибки][go-php-error] / **Ternary operator**
 
 ---
