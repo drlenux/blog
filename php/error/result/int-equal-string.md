@@ -1,4 +1,4 @@
-### Вопросы к собеседованию по PHP
+### int == string
 [home][go-home] / [PHP][go-php] / [Ошибки][go-php-error] / [int == string][go-php-error-int-equal-string] / **Результат**
 
 ---
