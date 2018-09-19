@@ -3,17 +3,16 @@
 
 ---
 
-- [Switch][php-switch]
-- [Swap parameters][php-swap]
-- [Array unique][php-array-unique]
-- [DB Log][mysql-db-log]
-- [Ошибки][php-error]
-- [Интервальная сумма][php-interval-answer]
+**Задача:** даны два натуральных числа a, b. Необходимо найти сумму чисел на интервале [a, b] (включая концы интервала).
 
-[php-interval-answer]: ./interval-answer/index.md
-[php-switch]: ./switch/index.md
-[php-array-unique]: ./array-unique/index.md
-[mysql-db-log]: ./db-log/index.md
-[php-swap]: ./swap/index.md
-[go-home]: ../index.md
-[php-error]: ./error/index.md
+**Входные данные:** a, b, где a <= b. a, b от 1 до 10^9.
+
+**Вывод:** sum - сумма чисел на интервале [a, b].
+
+**Пример:** a = 1, b = 3
+
+**Answer** = 6
+
+[go-php]: ../index.md
+[go-home]: ../../index.md
+
