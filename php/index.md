@@ -8,7 +8,9 @@
 - [Array unique][php-array-unique]
 - [DB Log][mysql-db-log]
 - [Ошибки][php-error]
+- [Интервальная сумма][php-interval-answer]
 
+[php-interval-answer]: ./interval-answer/index.md
 [php-switch]: ./switch/index.md
 [php-array-unique]: ./array-unique/index.md
 [mysql-db-log]: ./db-log/index.md
