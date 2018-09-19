@@ -1,4 +1,4 @@
-### Вопросы к собеседованию по PHP
+### array_udiff
 [home][go-home] / [PHP][go-php] / [Ошибки][go-php-error] / [array_udiff][go-php-error-array_udiff] / **Результат**
 
 ---
