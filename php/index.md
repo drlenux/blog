@@ -9,6 +9,7 @@
 - [DB Log][mysql-db-log]
 - [Ошибки][php-error]
 - [Интервальная сумма][php-interval-answer]
+- [bitwise operations][bitwise-operations]
 
 [php-interval-answer]: ./interval-answer/index.md
 [php-switch]: ./switch/index.md
@@ -17,3 +18,4 @@
 [php-swap]: ./swap/index.md
 [go-home]: ../index.md
 [php-error]: ./error/index.md
+[bitwise-operations]: ./bitwise-operations/index.md
