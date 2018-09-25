@@ -1,5 +1,5 @@
 ### Побитовые операции
-[home][go-home] / [PHP][go-php] / **bitwise-operations**
+[home][go-home] / [PHP][go-php] / **bitwise operations**
 
 ---
 
