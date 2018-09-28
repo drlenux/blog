@@ -58,7 +58,7 @@ tar -xvf xhprof-0.9.4.tar
 После этого необходимо внести изменения в скрипт:
 
 ```php
-<?
+<?php
 //...
 $xhprof_data = xhprof_disable();
 include_once "/var/www/xhprof-0.9.4/xhprof_lib/utils/xhprof_lib.php";
