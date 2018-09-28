@@ -15,8 +15,6 @@ sudo apt install xhprof
 sudo yum install php-xdebug
 ```
 
-### Настройка
-
 ### Как с ним работать
 
 #### Включение профилирования
