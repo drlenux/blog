@@ -11,6 +11,7 @@
 - [Интервальная сумма][php-interval-answer]
 - [bitwise operations][bitwise-operations]
 - [Профилирование](./profiling/index.md)
+- [Array](./array/index.md)
 
 [php-interval-answer]: ./interval-answer/index.md
 [php-switch]: ./switch/index.md
