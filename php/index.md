@@ -3,21 +3,16 @@
 
 ---
 
-- [Switch][php-switch]
-- [Swap parameters][php-swap]
-- [Array unique][php-array-unique]
-- [DB Log][mysql-db-log]
-- [Ошибки][php-error]
-- [Интервальная сумма][php-interval-answer]
-- [bitwise operations][bitwise-operations]
+- [Switch](./switch/index.md)
+- [Swap parameters](./swap/index.md)
+- [Array unique](./array-unique/index.md)
+- [DB Log](./db-log/index.md)
+- [Ошибки](./error/index.md)
+- [Интервальная сумма](./interval-answer/index.md)
+- [bitwise operations](./bitwise-operations/index.md)
 - [Профилирование](./profiling/index.md)
 - [Array For](./array-for/index.md)
 
-[php-interval-answer]: ./interval-answer/index.md
-[php-switch]: ./switch/index.md
-[php-array-unique]: ./array-unique/index.md
-[mysql-db-log]: ./db-log/index.md
-[php-swap]: ./swap/index.md
+
+ 
 [go-home]: ../index.md
-[php-error]: ./error/index.md
-[bitwise-operations]: ./bitwise-operations/index.md
