@@ -16,7 +16,7 @@ while (@ ob_end_flush());
 
 ```
 Чтобы завершать все выходные буферы, если они есть.
-
+```
 [go-back]: ./index.md
 [go-home]: ../../index.md
 [go-php]: ../index.md
