@@ -1,5 +1,5 @@
 ### Question
-[home][go-home] / [php][go-php] / [Приватные переменные](go-private-params) /**Ответ**
+[home][go-home] / [php][go-php] / [Приватные переменные][go-private-params] /**Ответ**
 
 ---
 ```php
