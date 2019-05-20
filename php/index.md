@@ -4,6 +4,7 @@
 ---
 
 - [Switch](./switch/index.md)
+- [Behavior](./behavior/index.md)
 - [Swap parameters](./swap/index.md)
 - [Array unique](./array-unique/index.md)
 - [DB Log](./db-log/index.md)
