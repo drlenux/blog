@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Question for QA](README.md)
 * [Что такое динамическое тестирование?](chto-takoe-dinamicheskoe-testirovanie.md)
 * [Что такое GUI-тестирование \(GUI Testing\)?](chto-takoe-gui-testirovanie-gui-testing.md)
 * [Что такое формальное тестирование?](chto-takoe-formalnoe-testirovanie.md)
@@ -11,4 +11,16 @@
 * [Что такое «парадокс пестицида»?](chto-takoe-paradoks-pesticida.md)
 * [Что такое статическое тестирование?](chto-takoe-staticheskoe-testirovanie.md)
 * [Что такое позитивное тестирование?](chto-takoe-pozitivnoe-testirovanie.md)
+* [Что такое негативное тестирование?](chto-takoe-negativnoe-testirovanie.md)
+* [Что такое сквозное тестирование \(еnd-to-end\)?](chto-takoe-skvoznoe-testirovanie-end-to-end.md)
+* [Что такое исследовательское тестирование?](chto-takoe-issledovatelskoe-testirovanie.md)
+* [Что такое «обезьянье тестирование» \(Monkey Testing\)?](chto-takoe-obezyane-testirovanie-monkey-testing.md)
+* [Что такое не функциональное тестирование?](chto-takoe-ne-funkcionalnoe-testirovanie.md)
+* [Что такое нагрузочное тестирование?](chto-takoe-nagruzochnoe-testirovanie.md)
+* [Что такое тестирование производительности?](chto-takoe-testirovanie-proizvoditelnosti.md)
+* [Что такое стресс-тестирование?](chto-takoe-stress-testirovanie.md)
+* [Что такое процесс тестирования/жизненный цикл?](chto-takoe-process-testirovaniya-zhiznennyi-cikl.md)
+* [Что такое альфа-тестирование?](chto-takoe-alfa-testirovanie.md)
+* [Что такое регрессионное тестирование?](chto-takoe-regressionnoe-testirovanie.md)
+* [Что такое Bucket Testing\(A/B\)?](chto-takoe-bucket-testing-a-b.md)
 

@@ -1,4 +1,2 @@
-# Initial page
-
-Question for QA
+# Question for QA
 
