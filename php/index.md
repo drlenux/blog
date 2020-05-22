@@ -17,6 +17,7 @@
 - [CSV combine](./csv-combine/index.md)
 - [Приватные переменные](./private-params/index.md)
 - [Boolean](./boolean/index.md)
+- [Date](./date/index.md
 
 
  
